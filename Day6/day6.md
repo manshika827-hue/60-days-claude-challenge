@@ -1,4 +1,4 @@
-# Day 6 - Resume Optimization with Claude & AI Learning using NoteGPT
+ # Day 6 - Resume Optimization with Claude & AI Learning using NoteGPT
 
 ## Overview
 
