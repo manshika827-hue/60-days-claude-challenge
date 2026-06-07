@@ -163,7 +163,7 @@ I learned that achieving a tech internship is easier when skills are developed i
 Place screenshot in Day4 folder and keep filename:
 
 ```md
-![AI Career Roadmap](road)
+![AI Career Roadmap](roadmap.jpeg)
 ```
 
 ---
